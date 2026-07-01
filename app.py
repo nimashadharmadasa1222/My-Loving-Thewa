@@ -105,7 +105,7 @@ if st.session_state.clicked_yes:
         <div class='message-box'>
             <b style='color: #B03060; font-size: 22px;'>To my favorite human,</b><br><br>
             I knew you'd pick the right answer! 😉 <br><br>
-             <br><br>
-            I love you to the moon and back! 🌙✨
+            I love you too. 🌙✨
+            Everything feals so heavy when you're not with me. Don't leave me. 
         </div>
         """, unsafe_allow_html=True)

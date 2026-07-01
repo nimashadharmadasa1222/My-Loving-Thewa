@@ -103,9 +103,18 @@ if st.session_state.clicked_yes:
         # 3. EDIT YOUR MESSAGE HERE 👇
         st.markdown("""
         <div class='message-box'>
-            <b style='color: #B03060; font-size: 22px;'>To my favorite human,</b><br><br>
-            I knew you'd pick the right answer! 😉 <br><br>
-            I love you too. 🌙✨
-            Everything feals so heavy when you're not with me. Don't leave me. 
+            <b style='color: #B03060; font-size: 22px;'>ආදරණීය Thewa වෙත,</b><br><br>
+            මම දන්නවා ඔයා හරි Answer එක තමයි දෙන්න‍ෙ කියලා ❤️ <br>
+            ඉතින් මග‍ෙ රත්තරන් මම මේක ලියන්නේ ගොඩක් පාළුවෙන්.
+            මගෙ හිතට ගොඩාක් දේවල් දැනෙනවා. දේවල් මේ වෙලාවේ ඔයාට කියන්න
+            පුළුවන් උනා නම්... ඒත් ඔයා වැඩ නේ. මට ඉතින් කරදර කරන්න බෑනෙ.
+            මගෙ හිතට හරි බයයි. මට ඔයාව ඕනි. ලගට දුවගෙන ඇවිත් බදාගෙන තුරුලු කරන් අඩන්න හිතෙනවා.
+            Mn dnnw oy mt godak adarei kiyala. Math ehemai. Mn hamadama api denna inn lassana
+            future ekkata heena mawanawa. මැරෙනකල් ඔයත් එක්ක ආදරෙන් ඉන්න ❤️
+            ඔයාව මගෙ﻿ ජීවිතේට ගොඩාක් වටිනවා 
+            ඔයා වෙනුවෙන්මයි මම මේක හැදුවේ
+            I love you. 🌙❤️✨
+
+                                                                                    01/07/2026
         </div>
         """, unsafe_allow_html=True)

@@ -114,7 +114,6 @@ if st.session_state.clicked_yes:
             ඔයාව මගෙ﻿ ජීවිතේට ගොඩාක් වටිනවා 
             ඔයා වෙනුවෙන්මයි මම මේක හැදුවේ
             I love you. 🌙❤️✨
-
-                     01/07/2026
+                                 01/07/2026
         </div>
         """, unsafe_allow_html=True)

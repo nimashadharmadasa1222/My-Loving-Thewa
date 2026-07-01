@@ -111,7 +111,7 @@ if st.session_state.clicked_yes:
             මගෙ හිතට හරි බයයි. මට ඔයාව ඕනි. ලගට දුවගෙන ඇවිත් බදාගෙන තුරුලු කරන් අඩන්න හිතෙනවා.
             Mn dnnw oy mt godak adarei kiyala. Math ehemai. Mn hamadama api denna inn lassana
             future ekkata heena mawanawa. මැරෙනකල් ඔයත් එක්ක ආදරෙන් ඉන්න ❤️
-            ඔයාව මගෙ﻿ ජීවිතේට ගොඩාක් වටිනවා 
+            ඔයාව මගෙ﻿ ජීවිතේට ගොඩාක් වටිනවා. මාව දාලා යන්නෙ නෑ නේද
             ඔයා වෙනුවෙන්මයි මම මේක හැදුවේ
             I love you. 🌙❤️✨
                                  01/07/2026
